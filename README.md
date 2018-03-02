@@ -15,5 +15,5 @@ Connected On
 Websites
 Instant Messengers
 ```
-
+### Time of connection bar chart
 ![alt text](connectTimeBarChart.png "Time of connection bar chart")
