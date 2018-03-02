@@ -18,5 +18,5 @@ Websites
 Instant Messengers
 ```
 
-### Time of connection bar chart
+### Following is a viz for Time of connection in a bar chart
 ![alt text](connectTimeBarChart.png "Time of connection bar chart")
