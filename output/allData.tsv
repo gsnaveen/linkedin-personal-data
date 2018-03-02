@@ -1,0 +1,4 @@
+First Name	Last Name	Address	Email Address	Company	Position	Connected On	Websites	Instant Messengers	Position_List	doman	ConnectedOnDate	year	month	monthstr	day	dated	hour	weekday	hourAP	counter
+Joe	frank		joe_frank@noemail.com	Company A	Publisher and Founder	12/22/16, 9:55 AM			['FOUNDER']	noemail.com	2016-12-22 09:55:00	2016	12	Dec	22	2016-12-22	9	Thursday	09 AM	1
+Laura	tippet		laura_tippet@noemail.com	Company B	CEO	11/21/16, 12:39 PM			['CEO']	noemail.com	2016-11-21 12:39:00	2016	11	Nov	21	2016-11-21	12	Monday	12 PM	1
+tom	tob		tom_tob@noemail.com	Company C	Recruiter	11/22/16, 12:39 PM			['RECRUITER']	noemail.com	2016-11-22 12:39:00	2016	11	Nov	22	2016-11-22	12	Tuesday	12 PM	1
