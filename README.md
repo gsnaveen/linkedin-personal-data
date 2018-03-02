@@ -1,6 +1,8 @@
-# linkedin-personal-data-analytic
+# linkedin-personal-data
 You can download your personal data from the following link. This is lot of that that we can use for data analytics.
-[Linkedin Personal data download](https://www.linkedin.com/psettings/member-data)
+[Linkedin Personal data download](https://www.linkedin.com/psettings/member-data).
+
+![alt text](HowLinkedInUsesyourdata.png "How LinkedIn Uses your data")
 
 I am currently workiong on "Connections.csv" files which contains information about the linkedin connections.
 
@@ -15,5 +17,6 @@ Connected On
 Websites
 Instant Messengers
 ```
+
 ### Time of connection bar chart
 ![alt text](connectTimeBarChart.png "Time of connection bar chart")
