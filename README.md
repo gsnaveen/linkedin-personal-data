@@ -20,6 +20,7 @@ Instant Messengers
 ```
 
 ### Following is a viz for Time of connection in a bar chart
+the challange was how to highlight the different time of the day
 ![alt text](connectTimeBarChart.png "Time of connection bar chart")
 
 ### Following is a viz for Roles of your connections
