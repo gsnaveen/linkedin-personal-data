@@ -1,6 +1,6 @@
 # linkedin-personal-data-analytic
 
-You can download your personal data from the following link. This is lot of that that we can use for data analytics.
+You can download your personal data from the following link. Lot of it we can use for data analytics.
 [Linkedin Personal data download](https://www.linkedin.com/psettings/member-data).
 
 ![alt text](HowLinkedInUsesyourdata.png "How LinkedIn Uses your data")
